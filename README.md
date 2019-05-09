@@ -12,7 +12,7 @@
 * Webpack
 * Yarn
 
-#Instructions
+# Instructions
 
 Attached is a small nodejs expressjs server and two sketches that give an overview of a dashboard and a new rover popup. The webserver outputs mars rover statuses, with a POST endpoint that lets you add new rovers.
 Live rover statuses are output from the server using `socket.io`, new rovers can be added with `POST /add-rover/:name`
@@ -31,16 +31,3 @@ Write a web frontend which implements the sketched dashboard and pop-up.
 # Challenges
 
 The main challenge of this exercise for me was to understand how to API works, specifically the POST request and get everything done in 4 hours. If I had more time, I would focus on UI and make it look like an actual product.
-<<<<<<< HEAD:README.md
-=======
-
-
-#Instructions
-
-Attached is a small nodejs expressjs server and two sketches that give an overview of a dashboard and a new rover popup.
-The webserver outputs mars rover statuses, with a POST endpoint that lets you add new rovers.
-Live rover statuses are output from the server using `socket.io`, new rovers can be added with `POST /add-rover/:name`
-
-Write a web frontend which implements the sketched dashboard and pop-up.
-
->>>>>>> 42273597409496dc5e96713d1f9eb258181da70b:README.txt
