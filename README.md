@@ -29,4 +29,4 @@ Write a web frontend which implements the sketched dashboard and pop-up.
 
 # Challenges
 
-The main challenge of this exercise for me was to understand how to API works, specifically the POST request and get everything done in 4 hours. If I had more time, I would focus on UI and make it look like an actual product.
+The main challenge of this exercise for me was to understand how to API works, specifically the POST request.
